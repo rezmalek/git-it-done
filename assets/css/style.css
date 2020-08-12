@@ -193,6 +193,9 @@ p {
   min-width: 100vw;
 }
 
+.subtitle {
+  margin-bottom: 10px;
+}
 /* FONT UTILS */
 .text-uppercase {
   text-transform: uppercase;
